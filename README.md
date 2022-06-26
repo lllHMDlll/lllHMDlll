@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lllHMDlll
 - 👀 I’m interested in programing front end
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @
+- 🌱 I’m currently learning Bootstrap5
+- 📫 How to reach me prog.hamad@gmail.com @
 
 <!---
 lllHMDlll/lllHMDlll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
