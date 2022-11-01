@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lllHMDlll || Hamad Alahmadi
 - 👀 I’m interested in programing front end
-- 🌱 I’m currently learning Bootstrap5
+- 🌱 I’m currently learning CSS3 Bootstrap5 HTML JS
 - 📫 How to reach me prog.hamad@gmail.com @
 
 <!---
